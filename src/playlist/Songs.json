@@ -1,0 +1,18 @@
+{
+    "songslist":[
+        {
+            "id":1,
+            "name":"Tall Se Tall",
+            "img":"https://i.ibb.co/8jX7YQC/varman.jpg",
+            "artist":"yuvan sankar raja",
+            "audio":"https://audio.jukehost.co.uk/Qh8yLiqJ7zZJh3E9IhaQ2A9na0F5VP64"
+        },
+        {
+            "id":2,
+            "name":"vera sora",
+            "img":"https://i.ibb.co/8jX7YQC/varman.jpg",
+            "artist":"yuvan sankar raja",
+            "audio":"https://audio.jukehost.co.uk/zanJZsr85xZIXLw6GjQjRQpMLumr31X1"
+        }
+    ]
+}

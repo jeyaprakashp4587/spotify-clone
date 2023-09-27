@@ -1,0 +1,38 @@
+{
+    "homelist":[
+        {
+            "id":1,
+            "name":"Jp Playlist",
+            "img":"https://i.ibb.co/PYPsSrT/HD-wallpaper-vibe-iphone-phone.jpg",
+            "route":"/jpplaylist"
+        },
+        {
+            "id":2,
+            "name":"Varman Playlist",
+            "img":"https://i.ibb.co/8jX7YQC/varman.jpg",
+            "route":"/varmanplaylist"
+        },
+         {   
+            "id":3,
+            "name":"Aniruth",
+            "img":"https://i.ibb.co/25gw0rR/ani.jpg",
+            "role":"Artist",
+            "route":"/aniruthplaylist"
+       },
+        {
+            "id":4,
+            "name":"AR Rahman",
+            "img":"https://i.ibb.co/xzLm6tm/ar.jpg",
+            "role":"Artist",
+            "route":"/arplaylist"
+        },
+        {
+            "id":4,
+            "name":"GV Prakash",
+            "img":"https://i.ibb.co/JrzDzLr/gv.jpg" ,
+            "role":"Artist",
+            "route":"/gvplaylist"
+        }
+        
+    ]
+}

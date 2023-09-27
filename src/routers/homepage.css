@@ -1,0 +1,55 @@
+.homepage{
+    /* border: 1px solid blue; */
+    height: 100%;
+    display: grid;
+    grid-template-rows: 10% 80%;
+    row-gap: 1rem;
+}
+.morning-message{
+    /* border: 1px solid blue; */
+    display: flex;
+    align-items: center;
+}
+.morning-message h2{
+    color: rgba(255, 255, 255, 0.979);
+    font-weight: 600;
+    font-size: 1.8rem;
+    
+}
+.homepage-playlists{
+    /* border: 1px solid blue; */
+    display: grid;
+    grid-template-columns: repeat(3, 30%);
+    grid-template-rows: repeat(2, 22%);
+    row-gap: 2rem;
+    column-gap: 2rem;
+}
+.homepage-playlist{
+    /* border: 1px solid rgb(21, 128, 0); */
+    display: grid;
+    grid-template-rows: 100%;
+    text-decoration: none;
+    border-radius: 0.2rem;
+    overflow: hidden;
+    background: rgba(83, 83, 83, 0.514);
+    transition: 0.5s;
+    &:hover{
+        transform: scale(1.1);
+    }
+}
+.homepage-playlisting{
+    display: grid;
+    /* border: 1px solid rgb(21, 128, 0); */
+    grid-template-columns: 27% auto;
+    align-items: center;
+    grid-template-rows: 100%;
+}
+.homepage-playlisting img{
+   width: 100%;
+   height: 100%;
+}
+.homepage-playlisting  h3{
+    color: aliceblue;
+    font-size: 1rem;
+    padding-left: 1rem;
+}
